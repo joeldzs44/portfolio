@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Joel Dsouza
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Data Analyst
+company: GEP Solutions
+email: joeldzs44@gmail.com
+twitter: https://twitter.com/joeld44
+linkedin: https://www.linkedin.com/in/joeldzs44
+github: https://github.com/joeldzs44/
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
